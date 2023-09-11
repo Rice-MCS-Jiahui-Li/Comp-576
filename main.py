@@ -5,8 +5,9 @@
 
 
 def main():
+    print("Assignment 0")
     print("Task 6")
-    print("ABDVOFESFNOEPFJNBFI")
+    print("Github: https://github.com/Rice-MCS-Jiahui-Li")
 
 
 main()
